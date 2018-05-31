@@ -29,7 +29,7 @@
                     <span class="fa fa-phone" aria-hidden="true"></span> 001 234 5678
                 </li>
                 <li>
-                    <a href="#" data-toggle="modal" data-target="#myModal1">
+                    <a href="{{ route('login') }}" data-toggle="modal" data-target="#myModal1">
                         <span class="fa fa-unlock-alt" aria-hidden="true"></span> Sign In </a>
                 </li>
                 <li>
