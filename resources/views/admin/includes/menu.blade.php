@@ -12,7 +12,7 @@
             <!-- /input-group -->
         </li>
 
-        {{--<li>
+        <li>
             <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Category Info<span class="fa arrow"></span></a>
             <ul class="nav nav-second-level">
                 <li>
@@ -25,7 +25,7 @@
             <!-- /.nav-second-level -->
         </li>
 
-        <li>
+        {{--<li>
             <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Brand Info<span class="fa arrow"></span></a>
             <ul class="nav nav-second-level">
                 <li>
